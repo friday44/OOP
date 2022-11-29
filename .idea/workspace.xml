@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz1oop">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/GeoTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Relationship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Research.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz2/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669621258410</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="dz1oop">
+      <created>1669622526484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669622526484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
