@@ -4,17 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz1oop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/GeoTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Relationship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Research.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2/Tree.java" afterDir="false" />
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz2oop">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_1/Ivanov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_1/Ivanova.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_2/Ivanov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_2/Ivanova.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_2/Main_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_3/Main_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_3/Petrov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_4/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_4/Ivanov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz2_4/Main_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_1/Nuns21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_1/RealisationNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_2/Nums22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_2/RealisationNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_2/RealisationNums_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_3/Nums23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_3/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_3/RealNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_3/RealNums_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_4/iConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_4/iConstID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_5/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_5/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_5/Execute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_5/MyClassProg_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_6/DefaultProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_6/MyRandAClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Sem2_6/RandA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz2/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/GeoTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/GeoTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Relationship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Relationship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Research.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Research.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz2/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz1/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +67,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -45,19 +83,81 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Татьяна/IdeaProjects/OOP/src/main/java/Dz2_4"
   }
-}</component>
-  <component name="RunManager">
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dz1.Program" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Татьяна\IdeaProjects\OOP\src\main\java\Dz2_4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Dz2_4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main_4">
+    <configuration name="Main_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dz2_2.Main_2" />
       <module name="OOP.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dz1.*" />
+          <option name="PATTERN" value="Dz2_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dz2_3.Main_3" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dz2_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dz2_4.Main_4" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dz2_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sem2_3.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem2_3.Program" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sem2_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iConstID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem2_4.iConstID" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sem2_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,7 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Main_4" />
+        <item itemvalue="Application.Main_2" />
+        <item itemvalue="Application.Main_3" />
+        <item itemvalue="Application.iConstID" />
+        <item itemvalue="Application.Sem2_3.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669622526484</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="dz2oop">
+      <created>1669713051779</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669713051779</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,6 +249,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dz1oop" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz1oop" />
+    <MESSAGE value="dz2oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2oop" />
   </component>
 </project>

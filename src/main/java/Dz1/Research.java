@@ -1,4 +1,4 @@
-package Dz2;
+package Dz1;
 
 import java.util.ArrayList;
 
