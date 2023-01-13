@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz3oop">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz4_1/MainGener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz4_2/MainMyNun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz4_2/MyNun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem3_1/Sem4_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4_2/SimpGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4_2/TwoGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4_3/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem4_3/Numeric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz4oop" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672146968776</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="dz4oop">
+      <created>1673506147418</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673506147418</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +232,7 @@
     <MESSAGE value="dz2oop" />
     <MESSAGE value="sem3oop" />
     <MESSAGE value="dz3oop" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz3oop" />
+    <MESSAGE value="dz4oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz4oop" />
   </component>
 </project>
