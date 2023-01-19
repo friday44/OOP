@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz5oop">
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz5oopedit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/GetInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/GetOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Program.java" afterDir="false" />
     </list>
@@ -230,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674048971411</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dz5oopedit">
+      <created>1674108499438</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674108499438</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +262,7 @@
     <MESSAGE value="dz4oop" />
     <MESSAGE value="dz4oopedit" />
     <MESSAGE value="dz5oop" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz5oop" />
+    <MESSAGE value="dz5oopedit" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz5oopedit" />
   </component>
 </project>
