@@ -1,4 +1,4 @@
-package Dz6_Calc;
+package Dz5_6_Calc;
 
 public class Calc {
     public static int calc(int num1, int num2, char operation){
