@@ -1,5 +1,7 @@
 package Dz6_Calc;
 
+import java.util.Scanner;
+
 public class Program {
     public static void main(String[] args) {
         int num1 = getInt();
@@ -9,8 +11,22 @@ public class Program {
         System.out.println("Результат операции: "+result);
     }
 
+    public static int getInt(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Введите число:");
+        int num;
+        if(scanner.hasNextInt()){
+            num = scanner.nextInt();
+        } else {
+            System.out.println("Вы допустили ошибку при вводе числа. Попробуйте еще раз.");
+            scanner.next();//рекурсия
+            num = getInt();
+        }
+        return num;
+    }
 
     public static char getOperation(){
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Введите операцию:");
         char operation;
         if(scanner.hasNext()){
@@ -27,16 +43,16 @@ public class Program {
         int result;
         switch (operation){
             case '+':
-                result = num1+num2;
+                result = num1 + num2;
                 break;
             case '-':
-                result = num1-num2;
+                result = num1 - num2;
                 break;
             case '*':
-                result = num1*num2;
+                result = num1 * num2;
                 break;
             case '/':
-                result = num1/num2;
+                result = num1 / num2;
                 break;
             default:
                 System.out.println("Операция не распознана. Повторите ввод.");
@@ -46,16 +62,5 @@ public class Program {
     }
 
 
-    public static int getInt(){
-        System.out.println("Введите число:");
-        int num;
-        if(scanner.hasNextInt()){
-            num = scanner.nextInt();
-        } else {
-            System.out.println("Вы допустили ошибку при вводе числа. Попробуйте еще раз.");
-            scanner.next();//рекурсия
-            num = getInt();
-        }
-        return num;
-    }
+
 }

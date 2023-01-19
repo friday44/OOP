@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz4oopedit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/CalcModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/DiffModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Presenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/PresenterOfT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/ProdModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/QuotModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/SumModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/View.java" afterDir="false" />
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz5oop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +54,26 @@
       <recent name="Dz2_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.Dz6_Calc.Program">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sem4_3.Demo" />
       <module name="OOP.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sem4_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dz6_Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dz6_Calc.Program" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dz6_Calc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem4_2.SimpGen" />
-      <module name="OOP.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sem4_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dz6_Calc.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.MainMyNun" />
         <item itemvalue="Application.MainGener" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.SimpGen" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673604309223</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="dz5oop">
+      <created>1674048971411</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674048971411</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +251,7 @@
     <MESSAGE value="dz3oop" />
     <MESSAGE value="dz4oop" />
     <MESSAGE value="dz4oopedit" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz4oopedit" />
+    <MESSAGE value="dz5oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz5oop" />
   </component>
 </project>
