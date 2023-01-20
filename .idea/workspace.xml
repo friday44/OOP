@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz5oopedit2">
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="dz5oopedit3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Model/CalcModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Model/I__Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Model/ResultModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Presenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/View/GetOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dz6_Calc/View/GetValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/CalcModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model/CalcModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/DiffModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model/DiffModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Presenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Presenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/PresenterOfT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/ProdModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model/ProdModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz5_6_Calc/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz5_Calc/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz5_6_Calc/GetInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz5_Calc/GetInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz5_6_Calc/GetOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz5_Calc/GetOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dz5_6_Calc/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dz5_Calc/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/QuotModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model/QuotModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sem5_Calc/SumModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sem5_Calc/Model/SumModel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,29 +49,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Татьяна/IdeaProjects/OOP/src/main/java/Dz2_4&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Татьяна/IdeaProjects/OOP/src/main/java/Dz6_Calc"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Татьяна\IdeaProjects\OOP\src\main\java\Dz6_Calc" />
       <recent name="C:\Users\Татьяна\IdeaProjects\OOP\src\main\java\Dz2_4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Dz2_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem4_3.Demo" />
+  <component name="RunManager" selected="Application.Dz6_Calc.Program">
+    <configuration name="Dz5_Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dz5_Calc.Program" />
       <module name="OOP.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sem4_3.*" />
+          <option name="PATTERN" value="Dz5_Calc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dz5_6_Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dz5_6_Calc.Program" />
+    <configuration name="Dz6_Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dz6_Calc.Program" />
       <module name="OOP.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dz5_6_Calc.*" />
+          <option name="PATTERN" value="Dz6_Calc.View.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,7 +124,7 @@
       <module name="OOP.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sem5_Calc.Model.*" />
+          <option name="PATTERN" value="Sem5_Calc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dz5_6_Calc.Program" />
+        <item itemvalue="Application.Dz6_Calc.Program" />
+        <item itemvalue="Application.Dz5_Calc.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.MainMyNun" />
         <item itemvalue="Application.MainGener" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674123131366</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="dz5oopedit3">
+      <created>1674196775833</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674196775833</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +295,7 @@
     <MESSAGE value="dz5oopedit" />
     <MESSAGE value="dz5oopedit1" />
     <MESSAGE value="dz5oopedit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="dz5oopedit2" />
+    <MESSAGE value="dz5oopedit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz5oopedit3" />
   </component>
 </project>

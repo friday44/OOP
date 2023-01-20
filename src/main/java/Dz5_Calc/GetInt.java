@@ -1,4 +1,4 @@
-package Dz5_6_Calc;
+package Dz5_Calc;
 
 import java.util.Scanner;
 

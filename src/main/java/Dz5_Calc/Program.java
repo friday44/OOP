@@ -1,4 +1,4 @@
-package Dz5_6_Calc;
+package Dz5_Calc;
 
 public class Program {
     public static void main(String[] args) {
