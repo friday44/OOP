@@ -1,5 +1,7 @@
 package Sem5_Calc;
 
+import Sem5_Calc.Model.Model;
+
 public class Presenter {
     View view;
     Model model;

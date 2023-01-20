@@ -1,14 +1,10 @@
-package Sem5_Calc;
+package Sem5_Calc.Model;
 
-public class SumModel extends CalcModel {
+public class QuotModel extends CalcModel {
 
-    public SumModel() {
-
-    }
-    // do_it
     @Override
     public int result() {
-        return x + y;
+        return x / y;
     }
 
     @Override
@@ -20,5 +16,4 @@ public class SumModel extends CalcModel {
     public void setY(int value) {
         super.y = value;
     }
-
 }

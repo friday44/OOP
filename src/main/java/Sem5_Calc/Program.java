@@ -1,5 +1,10 @@
 package Sem5_Calc;
 
+import Sem5_Calc.Model.DiffModel;
+import Sem5_Calc.Model.ProdModel;
+import Sem5_Calc.Model.QuotModel;
+import Sem5_Calc.Model.SumModel;
+
 public class Program {
     public static void main(String[] args) {
         Presenter p1 = new Presenter(new SumModel(), new View());

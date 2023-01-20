@@ -1,14 +1,10 @@
-package Sem5_Calc;
+package Sem5_Calc.Model;
 
-public class DiffModel extends CalcModel {
+public class SumModel extends CalcModel {
 
-    public DiffModel() {
-
-    }
-    // do_it
     @Override
     public int result() {
-        return x - y;
+        return x + y;
     }
 
     @Override
@@ -20,5 +16,4 @@ public class DiffModel extends CalcModel {
     public void setY(int value) {
         super.y = value;
     }
-
 }

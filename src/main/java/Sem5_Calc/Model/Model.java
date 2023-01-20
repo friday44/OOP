@@ -1,4 +1,4 @@
-package Sem5_Calc;
+package Sem5_Calc.Model;
 
 public interface Model {
     int result();
