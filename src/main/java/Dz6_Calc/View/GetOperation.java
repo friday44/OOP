@@ -4,9 +4,8 @@ import java.util.Scanner;
 
 public class GetOperation {
 
-    Scanner sc = new Scanner(System.in);
-
     public int getOperation() {
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Выберите операцию:\n" +
                 " 1 - сложение\n" +

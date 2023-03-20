@@ -29,6 +29,11 @@ public class ResultModel extends CalcModel {
         return result;
     }
 
+//    @Override
+//    public int operation() {
+//        return 0;
+//    }
+
     @Override
     public void setX(int value) {
         super.x = value;
