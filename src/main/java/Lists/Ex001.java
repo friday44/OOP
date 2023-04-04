@@ -9,9 +9,10 @@
 
 // Необходимо реализовать метод разворота односвязного списка
 
-package Ex001;
+package Lists;
 
-public class Ex001 {
+class MyList {
+    Node head;
 
     public static void main(String[] args) {
         MyList ml = new MyList();
@@ -28,11 +29,6 @@ public class Ex001 {
         System.out.println(ml.contains("First value"));
         System.out.println(ml.contains("Tenth value"));
     }
-}
-class MyList {
-    Node head;
-    Node tail;
-
 
     public void appendFirst(String value) {
         Node n = new Node();
@@ -66,24 +62,26 @@ class MyList {
     }
 
     public void revert() {
-        Node temp = head;
-        while (temp != null) {
-            Node next = temp.next;
-            Node previous = temp.previous;
-            temp.next = previous;
-            temp.previous = next;
-            if (previous ==null) {
-                tail = temp;
-            }
-            if (next == null) {
-                head = temp;
-            }
-            temp = next;
+        if(head != null && head.next != null) { // исключаем разворот для списка меньше 2х элементов
+            revert(head.next, head); // запускаем со второго элемента списка
         }
+    }
+    private void revert(Node temp, Node previousNode) {
+        if (temp.next == null) {
+            head = temp;
+        } else {
+            revert(temp.next, temp); // рекурсивно обходим список до последнего элемента
+        }
+        temp.next = previousNode;
+        previousNode.next = null; // т.к. рекурсия начинается со второго элемента списка, предыдущий (первый) не меняется
+    }
+
+    class Node {
+        Node next; // ссылка на следующий элемент списка
+        String value;
     }
 }
 class Node {
     Node next;
-    Node previous;
     String value;
 }
