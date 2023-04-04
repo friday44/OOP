@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="Kr2.1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toy_store/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toy_store/Draw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toy_store/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toy_store/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toy_store/Toy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Toy_store/Ui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ex001/Ex001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +62,7 @@
       <recent name="Dz2_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Ex001">
     <configuration name="Dz5_Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dz5_Calc.Program" />
       <module name="OOP.main" />
@@ -107,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex001.Ex001" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Toy_store.Main" />
       <module name="OOP.main" />
@@ -120,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem5_Calc.Program" />
-      <module name="OOP.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sem5_Calc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex001" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dz6_Caic2.Program" />
         <item itemvalue="Application.Dz6_Calc.Program" />
         <item itemvalue="Application.Dz5_Calc.Program" />
-        <item itemvalue="Application.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679320732500</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Kr2.1">
+      <created>1679323363774</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679323363774</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
