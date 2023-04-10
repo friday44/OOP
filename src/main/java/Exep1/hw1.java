@@ -17,9 +17,9 @@ public class hw1 {
         int[] arr1 = new int[] {11, 12, 13, 14, 15};
         int[] arr2 = new int[] {1, 2, 3, 4, 5};
 
-        subtractionArr(arr1, arr2);
+        printArr(subtractionArr(arr1, arr2));
 
-        divisionArr(arr1, arr2);
+    //    printArr(divisionArr(arr1, arr2));
 
     }
     public static int[] subtractionArr(int[] array1, int[] array2) {
@@ -27,22 +27,28 @@ public class hw1 {
             throw new RuntimeException("Длины массивов не одинаковые");
         }
 
-        int[] result = new int[];
+        int[] result = new int[array1.length];
         for (int i = 0; i < array1.length; i++) {
             result[i] = array1[i] - array2[i];
         }
         return result;
     }
 
-    public static int[] divisionArr(int[] array1, int[] array2) {
-        if (array1.length != array2.length) {
-            throw new RuntimeException("Длины массивов не одинаковые");
-        }
+//    public static double[] divisionArr(int[] array1, int[] array2) {
+//        if (array1.length != array2.length) {
+//            throw new RuntimeException("Длины массивов не одинаковые");
+//        }
+//
+//        double[] result = new double[array1.length];
+//        for (int i = 0; i < array1.length; i++) {
+//            result[i] = array1[i] / array2[i];
+//        }
+//        return result;
+//    }
 
-        int[] result = new int[];
-        for (int i = 0; i < array1.length; i++) {
-            result[i] = array1[i] - array2[i];
+    public static void printArr(int[] array) {
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(" " + array[i]);
         }
-        return result;
     }
 }

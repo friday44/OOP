@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="redbkacktree">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exep1/hw1.java" afterDir="false" />
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="exepsh1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Exep1/hw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exep1/hw1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +62,7 @@
       <recent name="Dz2_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex001">
-    <configuration name="Dz5_Calc.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dz5_Calc.Program" />
-      <module name="OOP.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Dz5_Calc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.hw1">
     <configuration name="Dz6_Caic2.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dz6_Caic2.Program" />
       <module name="OOP.main" />
@@ -128,13 +115,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hw1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exep1.hw1" />
+      <module name="OOP.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exep1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hw1" />
         <item itemvalue="Application.Ex001" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Dz6_Caic2.Program" />
         <item itemvalue="Application.Dz6_Calc.Program" />
-        <item itemvalue="Application.Dz5_Calc.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680776177858</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="exepsh1">
+      <created>1681120277105</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1681120277105</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,6 +346,7 @@
     <MESSAGE value="dz3algor" />
     <MESSAGE value="dz3algorihm" />
     <MESSAGE value="redbkacktree" />
-    <option name="LAST_COMMIT_MESSAGE" value="redbkacktree" />
+    <MESSAGE value="exepsh1" />
+    <option name="LAST_COMMIT_MESSAGE" value="exepsh1" />
   </component>
 </project>
