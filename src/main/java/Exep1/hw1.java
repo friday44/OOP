@@ -16,7 +16,7 @@ import java.util.Arrays;
 // Важно: При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
 public class hw1 {
     public static void main(String[] args) {
-        int[] arr1 = new int[] {11, 12, 13, 14, 15, 16};
+        int[] arr1 = new int[] {5, 4, 3, 2, 1, 1};
         int[] arr2 = new int[] {1, 2, 3, 4, 5};
 
         System.out.println(Arrays.toString(subtractionArr(arr1, arr2)));
@@ -30,8 +30,9 @@ public class hw1 {
         }
 
         int[] result = new int[array1.length];
+
         for (int i = 0; i < array1.length; i++) {
-            result[i] = array1[i] + array2[i];
+            result[i] = array1[i] - array2[i];
         }
         return result;
     }
