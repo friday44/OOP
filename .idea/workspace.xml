@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="exepsh1.2">
+    <list default="true" id="7e21a92e-8230-4b0a-8e7d-17d937f645b6" name="Changes" comment="exepsh1.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exep1/hw1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exep1/hw1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -328,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681127336356</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="exepsh1.3">
+      <created>1681127725348</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1681127725348</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,6 +370,7 @@
     <MESSAGE value="exepsh1" />
     <MESSAGE value="exepsh1.1" />
     <MESSAGE value="exepsh1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="exepsh1.2" />
+    <MESSAGE value="exepsh1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="exepsh1.3" />
   </component>
 </project>
